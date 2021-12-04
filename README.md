@@ -1,1 +1,1 @@
-# banker's Algorithm
+# Banker's Algorithm
